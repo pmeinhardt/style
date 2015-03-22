@@ -3,6 +3,9 @@
 - [C](#c)
 - [C++](#c-1)
 - [CSS](#css)
+- [Erlang](#erlang)
+- [Go](#go)
+- [Haskell](#haskell)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Objective-C](#objective-c)
@@ -31,9 +34,27 @@
 
 ### Tools
 
-- https://github.com/stubbornella/csslint
+- https://github.com/CSSLint/csslint
 - https://github.com/csscomb/csscomb.js
 - http://twitter.github.io/recess/ (Twitter's CSS Hinter)
+
+## Erlang
+
+### Tools
+
+- https://github.com/inaka/elvis
+
+## Go
+
+### Tools
+
+- https://github.com/golang/lint
+
+## Haskell
+
+### Tools
+
+- https://github.com/ndmitchell/hlint
 
 ## HTML
 
@@ -89,6 +110,10 @@
 
 - http://google-styleguide.googlecode.com/svn/trunk/shell.xml
 - https://github.com/progrium/bashstyle
+
+### Tools
+
+- https://github.com/koalaman/shellcheck
 
 ## Writing copy
 
