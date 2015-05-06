@@ -77,6 +77,7 @@
 - http://www.jslint.com/ (JSLint, Douglas Crockford)
 - http://eslint.org/ (ESLint, allows custom rule definitions, many predefined rules)
 - https://github.com/einars/js-beautify
+- https://github.com/facebook/flow (Flow, static type checking for JavaScript)
 
 ## Objective-C
 
