@@ -29,6 +29,7 @@
 
 - https://github.com/styleguide/css
 - http://mdo.github.io/code-guide/#css
+- https://github.com/airbnb/css
 - https://github.com/necolas/idiomatic-css
 - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 
@@ -98,6 +99,7 @@
 ## Ruby
 
 - https://github.com/styleguide/ruby
+- https://github.com/airbnb/ruby
 - https://github.com/bbatsov/ruby-style-guide
 
 ### Tools
