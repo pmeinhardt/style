@@ -123,3 +123,8 @@
 ## Writing copy
 
 - https://github.com/mdo/code-guide#copy
+
+### Tools
+
+- https://github.com/amperser/proselint
+- http://nitpickertool.com/
