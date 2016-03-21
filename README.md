@@ -84,6 +84,7 @@
 
 - http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml
 - https://github.com/NYTimes/objective-c-style-guide
+- https://github.com/github/objective-c-style-guide
 
 ## Python
 
