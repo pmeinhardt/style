@@ -30,6 +30,10 @@
 
 - https://github.com/bbatsov/clojure-style-guide
 
+### Tools
+
+- https://github.com/jonase/kibit
+
 ## CSS
 
 - https://github.com/styleguide/css
