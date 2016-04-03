@@ -2,6 +2,7 @@
 
 - [C](#c)
 - [C++](#c-1)
+- [Clojure](#clojure)
 - [CSS](#css)
 - [Erlang](#erlang)
 - [Go](#go)
@@ -24,6 +25,10 @@
 ## C++
 
 - http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
+
+## Clojure
+
+- https://github.com/bbatsov/clojure-style-guide
 
 ## CSS
 
