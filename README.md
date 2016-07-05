@@ -137,4 +137,5 @@
 ### Tools
 
 - https://github.com/amperser/proselint
+- https://github.com/btford/write-good
 - http://nitpickertool.com/
