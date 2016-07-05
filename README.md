@@ -138,4 +138,5 @@
 
 - https://github.com/amperser/proselint
 - https://github.com/btford/write-good
+- https://github.com/wooorm/alex
 - http://nitpickertool.com/
