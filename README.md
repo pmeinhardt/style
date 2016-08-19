@@ -81,7 +81,6 @@
 
 - https://github.com/airbnb/javascript
 - https://google.github.io/styleguide/javascriptguide.xml
-- https://github.com/styleguide/javascript (recommends using CoffeeScript, pffff)
 
 ### Tools
 
@@ -101,6 +100,7 @@
 
 - https://google.github.io/styleguide/pyguide.html
 - http://legacy.python.org/dev/peps/pep-0008/
+- http://docs.python-guide.org/en/latest/writing/style/
 
 ### Tools
 
@@ -150,3 +150,4 @@
 ## Other resources
 
 - https://github.com/google/styleguide
+- http://docs.python-guide.org/en/latest/
