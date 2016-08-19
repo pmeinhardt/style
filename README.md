@@ -14,7 +14,9 @@
 - [Ruby](#ruby)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Vimscript](#vimscript)
 - [Writing copy](#writing-copy)
+- [Other resources](#other-resources)
 
 ## C
 
@@ -24,7 +26,7 @@
 
 ## C++
 
-- http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
+- https://google.github.io/styleguide/cppguide.html
 
 ## Clojure
 
@@ -40,7 +42,7 @@
 - http://mdo.github.io/code-guide/#css
 - https://github.com/airbnb/css
 - https://github.com/necolas/idiomatic-css
-- http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+- https://google.github.io/styleguide/htmlcssguide.xml
 
 ### Tools
 
@@ -69,7 +71,7 @@
 ## HTML
 
 - http://mdo.github.io/code-guide/#html
-- http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+- https://google.github.io/styleguide/htmlcssguide.xml
 
 ### Tools
 
@@ -78,7 +80,7 @@
 ## JavaScript
 
 - https://github.com/airbnb/javascript
-- http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+- https://google.github.io/styleguide/javascriptguide.xml
 - https://github.com/styleguide/javascript (recommends using CoffeeScript, pffff)
 
 ### Tools
@@ -91,13 +93,13 @@
 
 ## Objective-C
 
-- http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml
+- https://google.github.io/styleguide/objcguide.xml
 - https://github.com/NYTimes/objective-c-style-guide
 - https://github.com/github/objective-c-style-guide
 
 ## Python
 
-- http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
+- https://google.github.io/styleguide/pyguide.html
 - http://legacy.python.org/dev/peps/pep-0008/
 
 ### Tools
@@ -123,12 +125,16 @@
 
 ## Shell
 
-- http://google-styleguide.googlecode.com/svn/trunk/shell.xml
+- https://google.github.io/styleguide/shell.xml
 - https://github.com/progrium/bashstyle
 
 ### Tools
 
 - https://github.com/koalaman/shellcheck
+
+## Vimscript
+
+- https://google.github.io/styleguide/vimscriptguide.xml
 
 ## Writing copy
 
@@ -140,3 +146,7 @@
 - https://github.com/btford/write-good
 - https://github.com/wooorm/alex
 - http://nitpickertool.com/
+
+## Other resources
+
+- https://github.com/google/styleguide
