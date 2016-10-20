@@ -4,6 +4,7 @@
 - [C++](#c-1)
 - [Clojure](#clojure)
 - [CSS](#css)
+- [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Go](#go)
 - [Haskell](#haskell)
@@ -49,6 +50,14 @@
 - https://github.com/CSSLint/csslint
 - https://github.com/csscomb/csscomb.js
 - http://twitter.github.io/recess/ (Twitter's CSS Hinter)
+
+## Elixir
+
+- https://github.com/rrrene/elixir-style-guide
+
+### Tools
+
+- https://github.com/rrrene/credo
 
 ## Erlang
 
