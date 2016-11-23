@@ -53,6 +53,7 @@
 
 ## Elixir
 
+- https://github.com/christopheradams/elixir_style_guide
 - https://github.com/rrrene/elixir-style-guide
 
 ### Tools
