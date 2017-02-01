@@ -1,5 +1,6 @@
 # Styleguide Resources
 
+- [Other resources](#other-resources)
 - [C](#c)
 - [C++](#c-1)
 - [Clojure](#clojure)
@@ -17,7 +18,12 @@
 - [Shell](#shell)
 - [Vimscript](#vimscript)
 - [Writing copy](#writing-copy)
-- [Other resources](#other-resources)
+
+## Other resources
+
+- https://github.com/mre/awesome-static-analysis
+- https://github.com/google/styleguide
+- http://docs.python-guide.org/en/latest/
 
 ## C
 
@@ -156,8 +162,3 @@
 - https://github.com/btford/write-good
 - https://github.com/wooorm/alex
 - http://nitpickertool.com/
-
-## Other resources
-
-- https://github.com/google/styleguide
-- http://docs.python-guide.org/en/latest/
