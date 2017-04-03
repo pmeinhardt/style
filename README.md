@@ -6,6 +6,7 @@
 - [Clojure](#clojure)
 - [CSS](#css)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Erlang](#erlang)
 - [Go](#go)
 - [Haskell](#haskell)
@@ -66,6 +67,10 @@
 ### Tools
 
 - https://github.com/rrrene/credo
+
+## Elm
+
+- https://github.com/NoRedInk/elm-style-guide
 
 ## Erlang
 
