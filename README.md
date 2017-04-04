@@ -70,6 +70,7 @@
 
 ## Elm
 
+- http://elm-lang.org/docs/style-guide
 - https://github.com/NoRedInk/elm-style-guide
 
 ## Erlang
