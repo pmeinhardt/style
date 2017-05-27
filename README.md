@@ -75,6 +75,8 @@
 
 ## Erlang
 
+- http://www.erlang.se/doc/programming_rules.shtml
+
 ### Tools
 
 - https://github.com/inaka/elvis
