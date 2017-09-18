@@ -17,6 +17,7 @@
 - [Ruby](#ruby)
 - [Scala](#scala)
 - [Shell](#shell)
+- [SQL](#sql)
 - [Vimscript](#vimscript)
 - [Writing copy](#writing-copy)
 
@@ -156,6 +157,12 @@
 ### Tools
 
 - https://github.com/koalaman/shellcheck
+
+## SQL
+
+### Tools
+
+- https://github.com/jarulraj/sqlcheck
 
 ## Vimscript
 
