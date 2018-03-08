@@ -19,7 +19,7 @@
 - [Shell](#shell)
 - [SQL](#sql)
 - [Vimscript](#vimscript)
-- [Writing copy](#writing-copy)
+- [Natural language](#natural-language)
 
 ## Other resources
 
@@ -48,7 +48,7 @@
 ## CSS
 
 - https://github.com/styleguide/css
-- http://mdo.github.io/code-guide/#css
+- http://codeguide.co/#css
 - https://github.com/airbnb/css
 - https://github.com/necolas/idiomatic-css
 - https://google.github.io/styleguide/htmlcssguide.xml
@@ -96,7 +96,7 @@
 
 ## HTML
 
-- http://mdo.github.io/code-guide/#html
+- http://codeguide.co/#html
 - https://google.github.io/styleguide/htmlcssguide.xml
 
 ### Tools
@@ -168,9 +168,7 @@
 
 - https://google.github.io/styleguide/vimscriptguide.xml
 
-## Writing copy
-
-- https://github.com/mdo/code-guide#copy
+## Natural language
 
 ### Tools
 
@@ -178,3 +176,5 @@
 - https://github.com/btford/write-good
 - https://github.com/wooorm/alex
 - http://nitpickertool.com/
+- https://github.com/ValeLint/vale/
+- https://github.com/rowanmanning/joblint
