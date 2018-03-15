@@ -125,7 +125,7 @@
 ## Python
 
 - https://google.github.io/styleguide/pyguide.html
-- http://legacy.python.org/dev/peps/pep-0008/
+- http://pep8.org/ (http://legacy.python.org/dev/peps/pep-0008/)
 - http://docs.python-guide.org/en/latest/writing/style/
 
 ### Tools
@@ -133,6 +133,8 @@
 - https://github.com/jcrocholl/pep8
 - https://github.com/google/yapf
 - http://www.pylint.org/
+- https://github.com/ambv/black
+- https://github.com/kennethreitz/white
 
 ## Ruby
 
