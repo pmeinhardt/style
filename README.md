@@ -18,6 +18,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [SQL](#sql)
+- [TypeScript](#typescript)
 - [Vimscript](#vimscript)
 - [Natural language](#natural-language)
 
@@ -165,6 +166,12 @@
 ### Tools
 
 - https://github.com/jarulraj/sqlcheck
+
+## TypeScript
+
+### Tools
+
+- https://github.com/google/ts-style
 
 ## Vimscript
 
