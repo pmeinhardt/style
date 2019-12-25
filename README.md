@@ -136,6 +136,7 @@
 - http://www.pylint.org/
 - https://github.com/ambv/black
 - https://github.com/kennethreitz/white
+- https://github.com/wemake-services/wemake-python-styleguide
 
 ## Ruby
 
